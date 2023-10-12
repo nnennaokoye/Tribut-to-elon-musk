@@ -1,0 +1,37 @@
+    /* style for header */
+    .header{
+        text-align: center;
+        font-size: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+       /* style for image*/
+    img{
+        width: 50%;
+        padding-left: 25%;
+    }
+     /* style for intro */
+    .intro{
+        text-align: center;
+        font-size: 25px;
+    }
+      /* style for achievements */
+    .event{
+        text-align: center;
+        color: white;
+        background-color: black;
+    }
+    .achievement{
+        color: white;
+        background-color: black;
+        padding-left: 10%;
+        padding-right: 10%;
+        
+    }
+       /* style for quote */
+    .quote{
+        text-align: center;
+        font-size: 15px;
+    }
+    
